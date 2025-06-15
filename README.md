@@ -20,3 +20,6 @@ Projeto responsivo desenvolvido para se adaptar a diferentes tipos de telas (des
 
 
 
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
